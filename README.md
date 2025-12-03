@@ -1,171 +1,140 @@
 🏢 CODERS TEAM UZ
 Software Development Company | Full-stack Solutions | Automation & AI Bots
-<p align="center"> <strong>We build modern digital products — mobile apps, web platforms, AI bots, enterprise systems, and API integrations.</strong><br/> 🧠 Our mission: turn ideas into scalable, high-performance software. </p>
+
+<p align="center"> <strong>We build modern digital products — mobile apps, web platforms, AI bots, enterprise systems, and API integrations.</strong><br/> 🧠 <strong>Our mission:</strong> Turn ideas into scalable, high-performance software. </p>
 🌍 About Us
+CODERS TEAM UZ — это IT-компания, создающая высококачественные программные решения с использованием современных технологий. Наша команда состоит из опытных full-разработчиков, backend-инженеров, mobile-разработчиков, специалистов по AI-ботам, системных администраторов и data-специалистов.
 
-CODERS TEAM UZ — bu zamonaviy texnologiyalar asosida ishlaydigan, yuqori darajadagi dasturiy yechimlarni ishlab chiqaruvchi IT kompaniya.
-Bizning jamoa tajribali full-stack dasturchilar, backend injenerlar, mobile developerlar, AI bot ishlab chiquvchilar, system administratorlar va data mutaxassislardan iborat.
+🔥 Основные направления:
 
-🔥 Bizning asosiy yo‘nalishlar:
-
-🚀 Custom Software Development
-
-🤖 Telegram Bots & AI Automation
-
-📱 Mobile App Development (React Native)
-
-🌐 Web Platforms & Dashboards
-
-☁️ Cloud & Microservices Architecture
-
-💾 Database Architecture (PostgreSQL, MongoDB, MySQL)
-
-🔗 API Integration & System Orchestration
-
-🛠 Enterprise-level Backend Systems (Java Spring Boot, FastAPI)
-
-📊 Admin Panels & Analytics Dashboards
-
-🔒 Security, Authentication, Role-based systems
-
-🏦 Payment systems, contracts, e-commerce logic
-
+<div align="center">
+🚀 Custom Software Development	🤖 Telegram Bots & AI Automation	📱 Mobile App Development (React Native)
+🌐 Web Platforms & Dashboards	☁️ Cloud & Microservices Architecture	💾 Database Architecture
+🔗 API Integration & System Orchestration	🛠 Enterprise Backend Systems	📊 Admin Panels & Analytics
+🔒 Security & Authentication Systems	🏦 Payment & E-commerce Solutions	⚡ High-load Systems
+</div>
 💼 Our Services
 ⭐ 1. Full-stack Web Development
+Frontend: React / Next.js, TypeScript, Tailwind CSS
 
-React / Next.js
+Backend: FastAPI / Spring Boot / Node.js
 
-FastAPI / Spring Boot
-
-Admin panels, dashboards, CRM systems
+Systems: Admin panels, dashboards, CRM, ERP
 
 ⭐ 2. Mobile Applications
+Cross-platform: React Native (Android & iOS)
 
-Android & iOS (React Native)
+Features: Cloud sync, push notifications, file sharing
 
-Cloud sync, notifications, file sharing
-
-Video meetings, payments, maps
+Integrations: Video meetings, payments, maps, real-time chat
 
 ⭐ 3. Telegram Bot Development
+Framework: Aiogram (async Python)
 
-Aiogram (async)
+Types: Auto-registration bots, CRM-integrated, payment-enabled
 
-Auto-registration bots
-
-CRM integration
-
-Payment-enabled bots
-
-Auto-moderation and AI-powered bots
+Advanced: AI-powered bots, auto-moderation, multi-language support
 
 ⭐ 4. API Integration
+Payments: Click, Payme, Stripe, PayPal
 
-Payment APIs
+Video Conferencing: Zoom, Google Meet integration
 
-Zoom API
+Cloud Storage: AWS S3, Google Cloud Storage
 
-Cloud Storage (AWS, S3, Google)
-
-University systems (HEMIS), CRM, ERP
+Enterprise: HEMIS, CRM, ERP, government systems
 
 ⭐ 5. Database & Architecture
+Databases: PostgreSQL, MongoDB, MySQL, Redis
 
-PostgreSQL normalization
+Design: Microservices, monolithic migration, scalable architecture
 
-Redis caching
-
-Microservice design
-
-High-load systems
+Performance: Query optimization, caching, replication
 
 ⭐ 6. IT Consulting & Optimization
+Code Review: Architecture analysis, refactoring
 
-Performance improvement
+Performance: Load testing, bottleneck identification
 
-Code refactor & system redesign
-
-Security analysis
+Security: Vulnerability assessment, penetration testing
 
 🧰 Tech Stack
 <div align="center">
 Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 Mobile
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 Databases
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-Tools
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/> </div>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+Tools & DevOps
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></div>
 🏆 Featured Projects
 🔹 University Management System
+Full-featured educational platform
 
-Full student module
+Modules: Student management, exam system, test generator
 
-Exam system, test generator
+Features: Contract generator (PDF), QR codes, attendance tracking
 
-Contract generator (PDF), QR code integration
-
-Attendance, booking, payments
-
-React + Spring Boot + PostgreSQL
+Tech Stack: React + Spring Boot + PostgreSQL + Redis
 
 🔹 Telegram CRM Bot
+Business automation with AI capabilities
 
-Aiogram async architecture
+Architecture: Aiogram async, PostgreSQL, Redis caching
 
-Multi-step forms
+Features: Multi-step forms, admin dashboard, file management
 
-Admin dashboard
-
-File uploads, S3 signed URLs
+Integration: AWS S3, payment systems, CRM APIs
 
 🔹 React Native Mobile App
+Enterprise mobile solution
 
-Zoom meeting integration
+Features: Zoom integration, offline mode, real-time notifications
 
-File uploads / downloads
+Tech: React Native, WebSocket, video streaming
 
-Offline mode
-
-Real-time notifications
+Storage: Secure file upload/download with encryption
 
 🔹 Trading Data Automation
+Financial data processing system
 
-Selenium parser
+Automation: Selenium web scraping, data parsing
 
-PostgreSQL incremental order tracking
+Backend: FastAPI microservices, PostgreSQL analytics
 
-REST API to manage traders
+Monitoring: Real-time dashboards, alert systems
 
 👥 Our Team
-We are a group of skilled engineers:
+Мы — команда опытных инженеров, объединённых страстью к созданию качественного ПО:
 
-Full-stack developers
+Full-stack developers — универсальные специалисты
 
-Backend engineers
+Backend engineers — архитекторы сложных систем
 
-Mobile developers
+Mobile developers — создатели кроссплатформенных приложений
 
-DevOps & database architects
+DevOps & DB architects — обеспечиваем стабильность и масштабируемость
 
-System designers and problem solvers
+System designers — превращаем бизнес-логику в технические решения
 
-“A small but powerful team — delivering enterprise-level solutions.”
+"Небольшая, но мощная команда — создающая решения корпоративного уровня."
 
 🎯 Mission & Vision
-Mission:
+Миссия:
+Создавать высококачественные, безопасные и масштабируемые IT-продукты, которые решают реальные бизнес-задачи и приносят ценность клиентам.
 
-Yuqori sifatli, xavfsiz va skalalanadigan IT mahsulotlar yaratish.
-
-Vision:
-
-O‘zbekistonning eng innovatsion IT jamoalaridan biri bo‘lish, va global miqyosda raqobatlashish.
+Видение:
+Стать одним из ведущих инновационных IT-коллективов в Узбекистане и конкурировать на глобальном рынке технологических услуг.
 
 📫 Contact Us
-<p align="center"> <a href="https://t.me/CodersHub_2024" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="https://bxu.uz" target="_blank"> <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/> </a> <a href="mailto:1203jumayev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://t.me/CodersHub_2024" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> <a href="https://bxu.uz" target="_blank"> <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/> </a> <a href="mailto:1203jumayev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/coders-team-uz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
 🔥 Tagline
+"We build systems that work. Fast, scalable, and business-driven."
 
-“We build systems that work. Fast, scalable, and business-driven.”
+<div align="center">
+🚀 Ready to turn your idea into reality? Let's build something amazing together!
+
+</div>
