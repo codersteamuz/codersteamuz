@@ -28,6 +28,13 @@ Tools & DevOps
 🔗 API Integration & System Orchestration	🛠 Enterprise Backend Systems	📊 Admin Panels & Analytics
 🔒 Security & Authentication Systems	🏦 Payment & E-commerce Solutions	⚡ High-load Systems
 </div>
+
+📫 Contact Us
+<p align="center"> <a href="https://t.me/CodersHub_2024" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> <a href="https://bxu.uz" target="_blank"> <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/> </a> <a href="mailto:1203jumayev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/coders-team-uz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+🔥 Tagline
+"We build systems that work. Fast, scalable, and business-driven."
+
+
 💼 Our Services
 ⭐ 1. Full-stack Web Development
 Frontend: React / Next.js, TypeScript, Tailwind CSS
@@ -75,68 +82,6 @@ Security: Vulnerability assessment, penetration testing
 🏆 Featured Projects
 🔹 University Management System
 Full-featured educational platform
-
-Modules: Student management, exam system, test generator
-
-Features: Contract generator (PDF), QR codes, attendance tracking
-
-Tech Stack: React + Spring Boot + PostgreSQL + Redis
-
-🔹 Telegram CRM Bot
-Business automation with AI capabilities
-
-Architecture: Aiogram async, PostgreSQL, Redis caching
-
-Features: Multi-step forms, admin dashboard, file management
-
-Integration: AWS S3, payment systems, CRM APIs
-
-🔹 React Native Mobile App
-Enterprise mobile solution
-
-Features: Zoom integration, offline mode, real-time notifications
-
-Tech: React Native, WebSocket, video streaming
-
-Storage: Secure file upload/download with encryption
-
-🔹 Trading Data Automation
-Financial data processing system
-
-Automation: Selenium web scraping, data parsing
-
-Backend: FastAPI microservices, PostgreSQL analytics
-
-Monitoring: Real-time dashboards, alert systems
-
-👥 Our Team
-Мы — команда опытных инженеров, объединённых страстью к созданию качественного ПО:
-
-Full-stack developers — универсальные специалисты
-
-Backend engineers — архитекторы сложных систем
-
-Mobile developers — создатели кроссплатформенных приложений
-
-DevOps & DB architects — обеспечиваем стабильность и масштабируемость
-
-System designers — превращаем бизнес-логику в технические решения
-
-"Небольшая, но мощная команда — создающая решения корпоративного уровня."
-
-🎯 Mission & Vision
-Миссия:
-Создавать высококачественные, безопасные и масштабируемые IT-продукты, которые решают реальные бизнес-задачи и приносят ценность клиентам.
-
-Видение:
-Стать одним из ведущих инновационных IT-коллективов в Узбекистане и конкурировать на глобальном рынке технологических услуг.
-
-📫 Contact Us
-<p align="center"> <a href="https://t.me/CodersHub_2024" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> <a href="https://bxu.uz" target="_blank"> <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/> </a> <a href="mailto:1203jumayev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/coders-team-uz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-🔥 Tagline
-"We build systems that work. Fast, scalable, and business-driven."
-
 <div align="center">
 🚀 Ready to turn your idea into reality? Let's build something amazing together!
-
 </div>
